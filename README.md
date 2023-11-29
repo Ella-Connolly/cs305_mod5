@@ -8,3 +8,5 @@ Ella Connolly, @Ella-Connolly, exc8@nau.edu
 Estrella Pereze, @star3009, emp369@nau.edu
 Esteban Grijalva, @eag463, eag463@nau.edu
 Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu
+## License
+This assignment/repository operates under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 
