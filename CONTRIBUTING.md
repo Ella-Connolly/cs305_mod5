@@ -1,1 +1,1 @@
-I, Kaiden Etsitty, @nedntheneedlefish, kbe44@nau.edu, am a collaborator.
+I am adding my information: Kaiden Etistty, @nedntheneedlefish, kbe44@nau.edu
